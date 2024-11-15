@@ -1,1 +1,1 @@
-# extension-bridge-hosted
+# cross-inpage-provider
